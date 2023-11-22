@@ -1,0 +1,11 @@
+[eips]
+rendered = "https://eips.eips.fyi/{number}/"
+
+[ercs]
+rendered = "https://ercs.eips.fyi/{number}/"
+
+[core]
+rendered = "https://core.eips.fyi/{number}/"
+
+[wallets]
+rendered = "https://wallets.eips.fyi/{number}/"
