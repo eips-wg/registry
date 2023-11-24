@@ -1,11 +1,20 @@
 [eips]
 rendered = "https://eips.eips.fyi/{number}/"
+path = "content/{number:0>5}.md"
+git = "https://github.com/eips-wg/eips-wg-eips.git"
 
 [ercs]
 rendered = "https://ercs.eips.fyi/{number}/"
+path = "content/{number:0>5}.md"
+git = "https://github.com/eips-wg/eips-wg-erc.git"
 
 [core]
 rendered = "https://core.eips.fyi/{number}/"
+path = "content/{number:0>5}.md"
+git = "https://github.com/eips-wg/eips-wg-core.git"
 
 [wallets]
 rendered = "https://wallets.eips.fyi/{number}/"
+path = "content/{number:0>5}.md"
+git = "https://github.com/eips-wg/eips-wg-wallet.git"
+
